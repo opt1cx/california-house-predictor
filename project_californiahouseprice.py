@@ -190,8 +190,3 @@ if st.button("Predict"):
 
     st.success(f"💰 Predicted Median House Value: **${prediction * 100000:.2f}**")
 '''
-
-with open("app.py", "w") as file:
-    file.write(code)
-
-!streamlit run app.py
