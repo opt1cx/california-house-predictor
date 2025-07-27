@@ -153,7 +153,7 @@ if st.button("Predict"):
 
     st.success(f"🏠 Predicted Median House Value: **${prediction * 100000:.2f}**")
 
-!streamlit run app.py
+
 
 !pip install streamlit
 
