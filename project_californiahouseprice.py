@@ -155,7 +155,7 @@ if st.button("Predict"):
 
 
 
-!pip install streamlit
+
 
 """Stream lit Rerun"""
 
